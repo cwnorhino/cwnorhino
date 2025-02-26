@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhakarjya</h1>
+<h1 align="center">Hi 👋, I'm Bhaskarjya</h1>
 <h3 align="center">exploring IOT and embedded systems right now</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cwnorhino&label=Profile%20views&color=0e75b6&style=flat" alt="cwnorhino" /> </p>
