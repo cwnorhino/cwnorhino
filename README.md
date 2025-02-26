@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Bhaskarjya</h1>
-<h3 align="center">exploring IOT and embedded systems right now</h3>
+<h3 align="center">currently exploring IOT and embedded systems right now</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cwnorhino&label=Profile%20views&color=0e75b6&style=flat" alt="cwnorhino" /> </p>
 
