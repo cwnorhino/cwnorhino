@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cwnorhino&label=Profile%20views&color=0e75b6&style=flat" alt="cwnorhino" /> </p>
 
+- 🔭 I’m currently exploring **Raspberry Pi, Microcontrollers and sensors**
+
 - 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **bhaskarjyana@gmail.com**
